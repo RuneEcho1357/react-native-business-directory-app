@@ -1,12 +1,12 @@
-# Welcome to your Expo app 👋
+# Welcome to my Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 # Portfolio
 <p float="left">
-  <img src="assets/images/screenshot/logo.jpg" width="250" />
-  <img src="assets/images/screenshot/1.jpg" width="250" />
-  <img src="assets/images/screenshot/2.jpg" width="250" />
+  <img src="assets/images/screenshot/logo.jpg" width="350" height="800"/>
+  <img src="assets/images/screenshot/1.jpg" width="350" height="800"/>
+  <img src="assets/images/screenshot/2.jpg" width="350" height="800"/>
 </p>
 
 ## Get started
