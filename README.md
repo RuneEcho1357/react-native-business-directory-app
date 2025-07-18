@@ -4,9 +4,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 # Portfolio
 <p float="left">
-  <img src="assets/images/screenshot/logo.jpg" width="300" height="800"/>
-  <img src="assets/images/screenshot/1.jpg" width="300" height="800"/>
-  <img src="assets/images/screenshot/2.jpg" width="300" height="800"/>
+  <img src="assets/images/screenshot/logo.jpg" width="250" height="600"/>
+  <img src="assets/images/screenshot/1.jpg" width="250" height="600"/>
+  <img src="assets/images/screenshot/2.jpg" width="250" height="600"/>
 </p>
 
 ## Get started
